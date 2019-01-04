@@ -1,2 +1,3 @@
-# Udacity Project 1 Nanodegree Fullstack
-Source code for a Movie Trailer website.
+# Movie Trailer Website
+Part of Udacity Nanodegree Fullstack Development
+
