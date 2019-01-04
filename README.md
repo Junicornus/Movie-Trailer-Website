@@ -34,13 +34,14 @@ RUN
    
 AUTHORS
 
-    fresh_tomatoes.py by UDACITY
-    entertainment.py and media.py by Jennifer Nicolay
+    original source code of fresh_tomatoes.py by UDACITY: https://github.com/udacity/ud036_StarterCode
+    changes made in HTML section by Jennifer Nicolay
+    entertainment.py and media.py written by Jennifer Nicolay
 
 THANKS
 
-    Thanks go to Udacity for providing the fresh_tomatoes.py file to easily generate an HTML file from the other modules.
+    Thanks go to Udacity for providing the original fresh_tomatoes.py file to easily generate an HTML file from the other modules.
 
 COPYRIGHT/LICENSE
 
-    fresh_tomatoes module was friendly provided my Udacity.
+    All rights reserved.
