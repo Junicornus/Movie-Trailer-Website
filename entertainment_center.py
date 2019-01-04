@@ -2,7 +2,9 @@
 import fresh_tomatoes
 import media
 
-# movie object list with information about each object.
+# movie list with information about each instance from class Movie
+# Class Movie is stored in module media.py
+
 
 spirited_away = media.Movie("Spirited away",
                             "A Story of a girl discovering a magic world",
