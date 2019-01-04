@@ -22,14 +22,14 @@ interstellar = media.Movie("Interstellar",
                            "https://www.youtube.com/watch?v=zSWdZVtXT7E")
 
 leon = media.Movie("Leon the professional",
-                                    "Robbery drama",
-                                    "https://bit.ly/1OqE1gr",
-                                    "https://www.youtube.com/watch?v=yoxLYdARO_0")
+                   "Robbery drama",
+                   "https://bit.ly/1OqE1gr",
+                   "https://www.youtube.com/watch?v=yoxLYdARO_0")
 
 alice = media.Movie("Alice in Wonderland",
-                                  "A girl escapes into a dreamworld",
-                                  "https://bit.ly/2CNdRnY",
-                                  "https://www.youtube.com/watch?v=9POCgSRVvf0")
+                    "A girl escapes into a dreamworld",
+                    "https://bit.ly/2CNdRnY",
+                    "https://www.youtube.com/watch?v=9POCgSRVvf0")
 
 inception = media.Movie("Inception",
                         "A turnaround about truth, reality and dreams",
