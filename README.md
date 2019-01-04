@@ -1,10 +1,10 @@
 # Movie Trailer Website
 Part of Udacity Nanodegree Fullstack Development
 
-README
+## README
 
-    With the provided python modules a Movie Trailer Website can be generated.
-    Users can see the listed movies and watch their trailer in the browser.
+With the provided python modules a Movie Trailer Website can be generated.
+Users can see the listed movies and watch their trailer in the browser.
 
 MANIFEST
 
