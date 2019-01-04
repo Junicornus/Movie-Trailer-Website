@@ -34,8 +34,8 @@ or type the following command:
 ## AUTHORS
 
 Original source code of fresh_tomatoes.py by UDACITY: https://github.com/udacity/ud036_StarterCode
-Changes made in HTML section by Jennifer Nicolay
-entertainment.py and media.py written by Jennifer Nicolay
+Changes made in HTML section by Jennifer Nicolay. 
+Modules entertainment.py and media.py written by Jennifer Nicolay
 
 ## THANKS
 
